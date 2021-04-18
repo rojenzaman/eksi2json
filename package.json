@@ -1,0 +1,18 @@
+{
+  "name": "eksi2json",
+  "version": "1.0.0",
+  "description": "convert eksisozluk.com user's data to JSON. example: node eksi2json.js username",
+  "main": "eksi2json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rojen Zaman <rojen@riseup.net> (http://rojenz.de)",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rojenzaman/eksi2hugo.git"
+  }
+}
