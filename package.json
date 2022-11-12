@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rojen Zaman <rojen@riseup.net> (http://rojenz.de)",
+  "author": "Rojen Zaman <rojen@riseup.net> (http://rojen.uk)",
   "license": "MIT",
   "dependencies": {
     "puppeteer": "^8.0.0"
